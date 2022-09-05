@@ -1,0 +1,21 @@
+*{
+     margin: 0;
+     padding: 0;
+     user-select: none;
+     box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6, ul, p{
+     margin-bottom: 0;
+}
+li{
+     list-style: none;
+}
+a, a:hover{
+     text-decoration: none;
+}
+
+.phone-img{
+     width: 200px;
+     margin: auto;
+     padding-top: 10px;
+}
